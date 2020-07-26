@@ -29,12 +29,12 @@ This set up is based around these set ups along with the other resources I list 
 
 ## Contents
 
-1. Setup
-2. Mopidy
-3. Shairport
-4. Snapserver
-5. Snapclient
-6. Home-assistant (To Do)
+1. [Setup](https://github.com/asymy/multi-zone-music/blob/master/01_Initial_setup.md)
+2. [Mopidy](https://github.com/asymy/multi-zone-music/blob/master/02_Mopidy.md)
+3. [Shairport](https://github.com/asymy/multi-zone-music/blob/master/03_Shairport.md)
+4. [Snapserver](https://github.com/asymy/multi-zone-music/blob/master/04_Snapserver.md)
+5. [Snapclient](https://github.com/asymy/multi-zone-music/blob/master/05_Snapclient.md)
+6. [Home-assistant](https://github.com/asymy/multi-zone-music/blob/master/06_Homeassistant.md) (To Do)
 
 ## Extras
 
