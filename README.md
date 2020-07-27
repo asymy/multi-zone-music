@@ -36,17 +36,6 @@ This set up is based around these set ups along with the other resources I list 
 5. [Snapclient](https://github.com/asymy/multi-zone-music/blob/master/05_Snapclient.md)
 6. [Home-assistant](https://github.com/asymy/multi-zone-music/blob/master/06_Homeassistant.md) (To Do)
 
-## Extras
-
-- I had some problems with permission with the pipe outputs
-  - Stop all the services
-  - Delete the fifo files in `/tmp/`
-  - Start back up mopidy and shairport
-  - Make sure the fifo files are created
-  - Start snapserver
-  - Should be fixed now
-- On the raspberry pi use the command `alsamixer` to increase the volume to the maximum
-- Make sure the raspberry pi is set to the right output
 
 # Conclusions
 
