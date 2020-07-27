@@ -1,7 +1,7 @@
 # Multi-zone music set up // SONOS killer
 
 
-<img src="multiroommusiclayout.svg"
+<img src="multiroommusiclayout.png"
      alt="Set up of music system"/>
 
 ## Inspiration
